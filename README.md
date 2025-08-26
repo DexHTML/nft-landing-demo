@@ -6,7 +6,7 @@ Built with **HTML5**, **CSS3**, and **JavaScript** — clean UI, smooth animatio
 ![Preview](images/screenshots.jpg)
 
 ## 🌐 Demo
-(добавишь после деплоя) https://dexhtml.github.io/nft-landing-demo/
+https://dexhtml.github.io/nft-landing-demo/
 
 ## ✨ Features
 - ⚡ **Hero with stats** — animated counters on scroll
