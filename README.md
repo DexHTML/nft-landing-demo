@@ -28,8 +28,8 @@ nft-landing-demo/
 ├── js/
 │   └── script.js
 └── images/
-    ├── nft-1.jpg … nft-6.jpg
-    └── logo.svg (optional)
+    └── nft-1.jpg … nft-6.jpg
+     
 ```
 ## 🚀 How to Run Locally
 1. **Clone the repository**:
